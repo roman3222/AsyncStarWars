@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+more_itertools
+sqlalchemy
+asyncpg
+alembic==1.11.1
